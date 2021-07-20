@@ -10,7 +10,7 @@ public class Converter {
 		int lastMenuSelection = 4;
 		
 		double convertedUnits;
-		double cfQtsLiters = .946353;
+		double cfQtsLiters = .946353;  
 		double cfYdsMeters = .9144;
 		double cfLbsKilograms = .453592;
 		double dnum;
