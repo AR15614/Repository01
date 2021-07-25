@@ -5,6 +5,6 @@ public class DisplayingArrays {
 	    intArray[0] = -5123;
 	    intArray[2] = 32;
 
-	    System.out.println(intArray[3]);
+	    System.out.println(intArray[2]);
 	  }
 }
